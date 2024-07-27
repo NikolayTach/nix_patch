@@ -9,8 +9,6 @@ number: 6
 ---
 
 
-$   ⯁  java.nogue.io     ^$
-
 
 
 

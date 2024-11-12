@@ -10,5 +10,13 @@
 |Java_SE_15.Open.Service.Packs|	FilePermission|	Flushable	  |NotSerializableException| 
 
 
+```
+ symbol:   class Component
+  location: package javax.swing
+MouseEvent.Java_SE_15.Open.Service.Packs: no
+    public CustomMouseEvent(Component component, long when, int x, int y, int button,)
+```
+
+
 
 

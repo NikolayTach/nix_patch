@@ -1,0 +1,8 @@
+"Type,Name,Value"
+"CNAME,h5bs53bfljsf3wqkrdc2eohg6lbcdnh6._domainkey.nogue.io,h5bs53bfljsf3wqkrdc2eohg6lbcdnh6.dkim.amazonses.com"
+"CNAME,b647s3xlcwhjtltdvt4azwo5ja5llkm4._domainkey.nogue.io,b647s3xlcwhjtltdvt4azwo5ja5llkm4.dkim.amazonses.com"
+"CNAME,ntmcdttgtkphw3efueyiknq5vjsiocrr._domainkey.nogue.io,ntmcdttgtkphw3efueyiknq5vjsiocrr.dkim.amazonses.com"
+"MX,java.nogue.io,10 feedback-smtp.us-west-1.amazonses.com"
+"TXT,java.nogue.io,""v=spf1 include:amazonses.com ~all"""
+"SHA-256,java.nogue.io=""MQzs_pswZ4sd0wUsj0zJTAYJVRXsNACZF2_KxKp_6-A&""code_challenge_method"
+"TXT,_dmarc.nogue.io,""v=DMARC1"
